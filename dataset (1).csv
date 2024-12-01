@@ -1,0 +1,301 @@
+triple,common material,question,choices,answerKey
+"('armrest', 'toddler car seat', 'natural pitching mound')","fabric, foam, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a toddler car seat?
+ a) armrest b) natural pitching mound
+","{'label': ['a)', 'b)'], 'text': ['armrest', 'natural pitching mound']}",b)
+"('ring sling', 'mosquito net', 'stoneware saucer')","metal, nylon, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a mosquito net?
+ a) ring sling b) stoneware saucer
+","{'label': ['a)', 'b)'], 'text': ['ring sling', 'stoneware saucer']}",b)
+"('golf ball', 'pop-up mosquito net', 'clear vase')",plastic,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a pop-up mosquito net?
+ a) golf ball b) clear vase
+","{'label': ['a)', 'b)'], 'text': ['golf ball', 'clear vase']}",b)
+"('bean bag chair', 'cape', 'spring doorstop')",fabric,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a cape?
+ a) bean bag chair b) spring doorstop
+","{'label': ['a)', 'b)'], 'text': ['bean bag chair', 'spring doorstop']}",b)
+"('trash can', 'dental braces', 'war flag')","metal, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a dental braces?
+ a) trash can b) war flag
+","{'label': ['a)', 'b)'], 'text': ['trash can', 'war flag']}",b)
+"('CD-ROM', 'moldable splint', 'mid-century modern coffee table')",thermoplastics,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a moldable splint?
+ a) CD-ROM b) mid-century modern coffee table
+","{'label': ['a)', 'b)'], 'text': ['CD-ROM', 'mid-century modern coffee table']}",b)
+"('longbow', 'wrap (clothing)', 'razor blade')","linen, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a wrap (clothing)?
+ a) longbow b) razor blade
+","{'label': ['a)', 'b)'], 'text': ['longbow', 'razor blade']}",b)
+"('measuring cups', 'one-piece toilet', 'natural wicker basket')",plastic,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a one-piece toilet?
+ a) measuring cups b) natural wicker basket
+","{'label': ['a)', 'b)'], 'text': ['measuring cups', 'natural wicker basket']}",b)
+"('sky lantern', 'eco-friendly toothbrush', 'golf ball')",bamboo,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a eco-friendly toothbrush?
+ a) sky lantern b) golf ball
+","{'label': ['a)', 'b)'], 'text': ['sky lantern', 'golf ball']}",b)
+"('bristle hand scrubber', 'fishing line', 'balloon')",nylon,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a fishing line?
+ a) bristle hand scrubber b) balloon
+","{'label': ['a)', 'b)'], 'text': ['bristle hand scrubber', 'balloon']}",b)
+"('sketchbook', 'windsock pole', 'windsock sleeve')","metal, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a windsock pole?
+ a) sketchbook b) windsock sleeve
+","{'label': ['a)', 'b)'], 'text': ['sketchbook', 'windsock sleeve']}",b)
+"('basketball backboard', 'natural fiber paint roller', 'running shoes')",metal,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a natural fiber paint roller?
+ a) basketball backboard b) running shoes
+","{'label': ['a)', 'b)'], 'text': ['basketball backboard', 'running shoes']}",b)
+"('static billboard', 'liquid crystal display (LCD) monitor', 'veil')","metal, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a liquid crystal display (LCD) monitor?
+ a) static billboard b) veil
+","{'label': ['a)', 'b)'], 'text': ['static billboard', 'veil']}",b)
+"('incandescent lamp', 'shot put ball', 'footless tights')",metal,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a shot put ball?
+ a) incandescent lamp b) footless tights
+","{'label': ['a)', 'b)'], 'text': ['incandescent lamp', 'footless tights']}",b)
+"('bookmark', 'sachet', 'quantum dot display')",paper,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a sachet?
+ a) bookmark b) quantum dot display
+","{'label': ['a)', 'b)'], 'text': ['bookmark', 'quantum dot display']}",b)
+"('besom', 'pipe organ (musical instrument)', 'towel')",wood,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a pipe organ (musical instrument)?
+ a) besom b) towel
+","{'label': ['a)', 'b)'], 'text': ['besom', 'towel']}",b)
+"('button', 'Blu-ray Disc', 'corkboard')","aluminum, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a Blu-ray Disc?
+ a) button b) corkboard
+","{'label': ['a)', 'b)'], 'text': ['button', 'corkboard']}",b)
+"('DVD', 'digging shovel', 'stoneware saucer')","aluminum, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a digging shovel?
+ a) DVD b) stoneware saucer
+","{'label': ['a)', 'b)'], 'text': ['DVD', 'stoneware saucer']}",b)
+"('incandescent light bulb', 'drum (musical instrument)', 'solid concrete block')",metal,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a drum (musical instrument)?
+ a) incandescent light bulb b) solid concrete block
+","{'label': ['a)', 'b)'], 'text': ['incandescent light bulb', 'solid concrete block']}",b)
+"('doorstop', 'magnifying glass', 'contact lens')","metal, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a magnifying glass?
+ a) doorstop b) contact lens
+","{'label': ['a)', 'b)'], 'text': ['doorstop', 'contact lens']}",b)
+"('seat belt', 'footless tights', 'walkie-talkie')",nylon,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a footless tights?
+ a) seat belt b) walkie-talkie
+","{'label': ['a)', 'b)'], 'text': ['seat belt', 'walkie-talkie']}",b)
+"('camping chair', 'LaserDisc', 'neckerchief')",aluminum,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a LaserDisc?
+ a) camping chair b) neckerchief
+","{'label': ['a)', 'b)'], 'text': ['camping chair', 'neckerchief']}",b)
+"('disposable respirator', 'blanket', 'flexible bowl scraper')","polyester, polypropylene","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a blanket?
+ a) disposable respirator b) flexible bowl scraper
+","{'label': ['a)', 'b)'], 'text': ['disposable respirator', 'flexible bowl scraper']}",b)
+"('gong mallet', 'safety match', 'vehicle registration plate')",wood,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a safety match?
+ a) gong mallet b) vehicle registration plate
+","{'label': ['a)', 'b)'], 'text': ['gong mallet', 'vehicle registration plate']}",b)
+"('arrow quiver', 'wallet', 'toilet paper')","leather, textiles","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a wallet?
+ a) arrow quiver b) toilet paper
+","{'label': ['a)', 'b)'], 'text': ['arrow quiver', 'toilet paper']}",b)
+"('domino tile', 'mixing spoon', 'balloon sleeve')","plastic, wood","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a mixing spoon?
+ a) domino tile b) balloon sleeve
+","{'label': ['a)', 'b)'], 'text': ['domino tile', 'balloon sleeve']}",b)
+"('jewelry tray drawer', 'highlighter pen', 'matte postcard')","felt, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a highlighter pen?
+ a) jewelry tray drawer b) matte postcard
+","{'label': ['a)', 'b)'], 'text': ['jewelry tray drawer', 'matte postcard']}",b)
+"('spiral notebook', 'sparkling wine bottle', 'sweatband')",metal,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a sparkling wine bottle?
+ a) spiral notebook b) sweatband
+","{'label': ['a)', 'b)'], 'text': ['spiral notebook', 'sweatband']}",b)
+"('yoga mat', 'collapsible tub', 'pedestal sink basin')","PVC","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a collapsible tub?
+ a) yoga mat b) pedestal sink basin
+","{'label': ['a)', 'b)'], 'text': ['yoga mat', 'pedestal sink basin']}",b)
+"('tennis racket', 'balaclava', 'chopsticks')","nylon, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a balaclava?
+ a) tennis racket b) chopsticks
+","{'label': ['a)', 'b)'], 'text': ['tennis racket', 'chopsticks']}",b)
+"('umbrella', 'luggage padlock', 'blanket')",metal,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a luggage padlock?
+ a) umbrella b) blanket
+","{'label': ['a)', 'b)'], 'text': ['umbrella', 'blanket']}",b)
+"('piano hammer', 'moving blanket', 'high bar')",felt,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a moving blanket?
+ a) piano hammer b) high bar
+","{'label': ['a)', 'b)'], 'text': ['piano hammer', 'high bar']}",b)
+"('tennis ball', 'fez (hat)', 'molding (decorative)')",felt,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a fez (hat)?
+ a) tennis ball b) molding (decorative)
+","{'label': ['a)', 'b)'], 'text': ['tennis ball', 'molding (decorative)']}",b)
+"('DVD', 'backboard (basketball)', 'shuttlecock')","aluminum, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a backboard (basketball)?
+ a) DVD b) shuttlecock
+","{'label': ['a)', 'b)'], 'text': ['DVD', 'shuttlecock']}",b)
+"('bean bag chair', 'sleeve', 'frame drum')","nylon, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a sleeve?
+ a) bean bag chair b) frame drum
+","{'label': ['a)', 'b)'], 'text': ['bean bag chair', 'frame drum']}",b)
+"('bicycle seat', 'liquid crystal display (LCD) monitor', 'eraser')",metal,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a liquid crystal display (LCD) monitor?
+ a) bicycle seat b) eraser
+","{'label': ['a)', 'b)'], 'text': ['bicycle seat', 'eraser']}",b)
+"('booby trap', 'kitchen scrubber', 'pumice stone')","metal, plastic, wood","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a kitchen scrubber?
+ a) booby trap b) pumice stone
+","{'label': ['a)', 'b)'], 'text': ['booby trap', 'pumice stone']}",b)
+"('phone holder', 'helmet', 'crayon')","plastic, silicone, rubber","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a helmet?
+ a) phone holder b) crayon
+","{'label': ['a)', 'b)'], 'text': ['phone holder', 'crayon']}",b)
+"('footstool', 'scarf', 'clay pigeon')","cotton, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a scarf?
+ a) footstool b) clay pigeon
+","{'label': ['a)', 'b)'], 'text': ['footstool', 'clay pigeon']}",b)
+"('floor lamp', 'pop-up mosquito net', 'tile floor')","metal, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a pop-up mosquito net?
+ a) floor lamp b) tile floor
+","{'label': ['a)', 'b)'], 'text': ['floor lamp', 'tile floor']}",b)
+"('zip fly', 'planar magnetic loudspeaker', 'cricket ball')",metal,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a planar magnetic loudspeaker?
+ a) zip fly b) cricket ball
+","{'label': ['a)', 'b)'], 'text': ['zip fly', 'cricket ball']}",b)
+"('solid rocket', 'harp', 'soccer ball')",metal,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a harp?
+ a) solid rocket b) soccer ball
+","{'label': ['a)', 'b)'], 'text': ['solid rocket', 'soccer ball']}",b)
+"('spear head', 'statue', 'medical scrubs')",metal,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a statue?
+ a) spear head b) medical scrubs
+","{'label': ['a)', 'b)'], 'text': ['spear head', 'medical scrubs']}",b)
+"('smartphone', 'bus stop shelter', 'joggers')","glass, metal, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a bus stop shelter?
+ a) smartphone b) joggers
+","{'label': ['a)', 'b)'], 'text': ['smartphone', 'joggers']}",b)
+"('messenger bag', 'shoelaces', 'grinding stone')","nylon, plastic, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a shoelaces?
+ a) messenger bag b) grinding stone
+","{'label': ['a)', 'b)'], 'text': ['messenger bag', 'grinding stone']}",b)
+"('portable charger', 'chunky heels', 'coconut snowball')","metal, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a chunky heels?
+ a) portable charger b) coconut snowball
+","{'label': ['a)', 'b)'], 'text': ['portable charger', 'coconut snowball']}",b)
+"('castle', 'sarcophagus-style headstone', 'swimsuit')",stone,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a sarcophagus-style headstone?
+ a) castle b) swimsuit
+","{'label': ['a)', 'b)'], 'text': ['castle', 'swimsuit']}",b)
+"('bean bag lounger', 'unitards', 'garden hose')",polyester,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a unitards?
+ a) bean bag lounger b) garden hose
+","{'label': ['a)', 'b)'], 'text': ['bean bag lounger', 'garden hose']}",b)
+"('windbreaker jacket', 'theatrical leggings', 'freestanding bell tower')",polyester,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a theatrical leggings?
+ a) windbreaker jacket b) freestanding bell tower
+","{'label': ['a)', 'b)'], 'text': ['windbreaker jacket', 'freestanding bell tower']}",b)
+"('apron-style adult dining bib', 'water-resistant mousepad', 'skylight window')","polyester, vinyl","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a water-resistant mousepad?
+ a) apron-style adult dining bib b) skylight window
+","{'label': ['a)', 'b)'], 'text': ['apron-style adult dining bib', 'skylight window']}",b)
+"('bike rack', 'bas-relief', 'votive candle')",metal,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a bas-relief?
+ a) votive candle b) bike rack
+","{'label': ['a)', 'b)'], 'text': ['votive candle', 'bike rack']}",a)
+"('full-body inflatable costume', 'tie-back halter blouse', 'puzzle pieces')","nylon, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a tie-back halter blouse?
+ a) puzzle pieces b) full-body inflatable costume
+","{'label': ['a)', 'b)'], 'text': ['puzzle pieces', 'full-body inflatable costume']}",a)
+"('platform thigh-high boots', 'shower curtain', 'classical sculpture')","nylon, polyester, PVC","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a shower curtain?
+ a) classical sculpture b) platform thigh-high boots
+","{'label': ['a)', 'b)'], 'text': ['classical sculpture', 'platform thigh-high boots']}",a)
+"('hovercraft', 'baseball bats', 'halter tank top')","aluminum, carbon fiber","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a baseball bats?
+ a) halter tank top b) hovercraft
+","{'label': ['a)', 'b)'], 'text': ['halter tank top', 'hovercraft']}",a)
+"('pre-tied bow tie', 'closed-back slippers', 'caliper')",polyester,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a closed-back slippers?
+ a) caliper b) pre-tied bow tie
+","{'label': ['a)', 'b)'], 'text': ['caliper', 'pre-tied bow tie']}",a)
+"('bento box', 'lap desk', 'cornerstone')","plastic, wood","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a lap desk?
+ a) cornerstone b) bento box
+","{'label': ['a)', 'b)'], 'text': ['cornerstone', 'bento box']}",a)
+"('glove-style finger puppet', 'dumbbell', 'spa towel')",rubber,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a dumbbell?
+ a) spa towel b) glove-style finger puppet
+","{'label': ['a)', 'b)'], 'text': ['spa towel', 'glove-style finger puppet']}",a)
+"('toothbrush', 'traditional woven basket', 'reflective traffic sign')",bamboo,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a traditional woven basket?
+ a) reflective traffic sign b) toothbrush
+","{'label': ['a)', 'b)'], 'text': ['reflective traffic sign', 'toothbrush']}",a)
+"('ball-point pen', 'hex bolt', 'handheld paddle fan')",metal,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a hex bolt?
+ a) handheld paddle fan b) ball-point pen
+","{'label': ['a)', 'b)'], 'text': ['handheld paddle fan', 'ball-point pen']}",a)
+"('clip-on tie', 'skirted leotard', 'traditional corn broom')","nylon, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a skirted leotard?
+ a) traditional corn broom b) clip-on tie
+","{'label': ['a)', 'b)'], 'text': ['traditional corn broom', 'clip-on tie']}",a)
+"('satchel backpack', 'pullover hoodie', 'vacuum flask')",polyester,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a pullover hoodie?
+ a) vacuum flask b) satchel backpack
+","{'label': ['a)', 'b)'], 'text': ['vacuum flask', 'satchel backpack']}",a)
+"('showcase stage pavilion', 'countertop', 'compression shirt')","metal, wood","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a countertop?
+ a) compression shirt b) showcase stage pavilion
+","{'label': ['a)', 'b)'], 'text': ['compression shirt', 'showcase stage pavilion']}",a)
+"('Polaroid camera', 'electronic scoreboard', 'eco-friendly coffin')","metal, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a electronic scoreboard?
+ a) eco-friendly coffin b) Polaroid camera
+","{'label': ['a)', 'b)'], 'text': ['eco-friendly coffin', 'Polaroid camera']}",a)
+"('drawer finger pull', 'shoehorn', 'jeggings')","metal, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a shoehorn?
+ a) jeggings b) drawer finger pull
+","{'label': ['a)', 'b)'], 'text': ['jeggings', 'drawer finger pull']}",a)
+"('fitted sheet', 'beanie hat', 'air-raid shelter')","cotton, polyester, spandex","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a beanie hat?
+ a) air-raid shelter b) fitted sheet
+","{'label': ['a)', 'b)'], 'text': ['air-raid shelter', 'fitted sheet']}",a)
+"('ball gown', 'hair scrunchies', 'restroom stall')","satin, silk, velvet","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a hair scrunchies?
+ a) restroom stall b) ball gown
+","{'label': ['a)', 'b)'], 'text': ['restroom stall', 'ball gown']}",a)
+"('raised-relief map', 'bread plate', 'backless a-line evening gown')",plastic,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a bread plate?
+ a) backless a-line evening gown b) raised-relief map
+","{'label': ['a)', 'b)'], 'text': ['backless a-line evening gown', 'raised-relief map']}",a)
+"('pull-on snow boots', 'full-face balaclava', 'pasta bowl')","fleece, nylon, neoprene, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a full-face balaclava?
+ a) pasta bowl b) pull-on snow boots
+","{'label': ['a)', 'b)'], 'text': ['pasta bowl', 'pull-on snow boots']}",a)
+"('kitchen cabinet', 'Jenga blocks', 'pouch clutch')",wood,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a Jenga blocks?
+ a) pouch clutch b) kitchen cabinet
+","{'label': ['a)', 'b)'], 'text': ['pouch clutch', 'kitchen cabinet']}",a)
+"('rolling pin', 'violin', 'bandana (headgear)')","metal, plastic, wood","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a violin?
+ a) bandana (headgear) b) rolling pin
+","{'label': ['a)', 'b)'], 'text': ['bandana (headgear)', 'rolling pin']}",a)
+"('computer mouse', 'ping pong paddle', 'tuning fork')","plastic, rubber","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a ping pong paddle?
+ a) tuning fork b) computer mouse
+","{'label': ['a)', 'b)'], 'text': ['tuning fork', 'computer mouse']}",a)
+"('freestanding wine cooler', 'eyeglasses', 'duvet')","glass, metal, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a eyeglasses?
+ a) duvet b) freestanding wine cooler
+","{'label': ['a)', 'b)'], 'text': ['duvet', 'freestanding wine cooler']}",a)
+"('phone charger', 'pocket compass', 'natural loofah')","metal, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a pocket compass?
+ a) natural loofah b) phone charger
+","{'label': ['a)', 'b)'], 'text': ['natural loofah', 'phone charger']}",a)
+"('observation post', 'mortar and pestle', 'pregnancy pillow')","stainless steel, stone","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a mortar and pestle?
+ a) pregnancy pillow b) observation post
+","{'label': ['a)', 'b)'], 'text': ['pregnancy pillow', 'observation post']}",a)
+"('violin bow', 'chess piece', 'twisty balloon')","plastic, wood","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a chess piece?
+ a) twisty balloon b) violin bow
+","{'label': ['a)', 'b)'], 'text': ['twisty balloon', 'violin bow']}",a)
+"('dry-erase calendar', 'auto-lock tape measure', 'wine cork')","metal, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a auto-lock tape measure?
+ a) wine cork b) dry-erase calendar
+","{'label': ['a)', 'b)'], 'text': ['wine cork', 'dry-erase calendar']}",a)
+"('stylus pen', 'dessert plate', 'onesie')","metal, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a dessert plate?
+ a) onesie b) stylus pen
+","{'label': ['a)', 'b)'], 'text': ['onesie', 'stylus pen']}",a)
+"('rear-view mirror', 'cuckoo clock', 'sundress')","glass, metal","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a cuckoo clock?
+ a) sundress b) rear-view mirror
+","{'label': ['a)', 'b)'], 'text': ['sundress', 'rear-view mirror']}",a)
+"('finger puppet', 'pennant flag', 'plain podium')","polyester, vinyl","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a pennant flag?
+ a) plain podium b) finger puppet
+","{'label': ['a)', 'b)'], 'text': ['plain podium', 'finger puppet']}",a)
+"('hooded romper', 'flutter sleeve', 'smartphone')","cotton, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a flutter sleeve?
+ a) smartphone b) hooded romper
+","{'label': ['a)', 'b)'], 'text': ['smartphone', 'hooded romper']}",a)
+"('trunk bag', 'non-skid slipper socks', 'crescent arrowhead')","nylon, polyester, rubber","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a non-skid slipper socks?
+ a) crescent arrowhead b) trunk bag
+","{'label': ['a)', 'b)'], 'text': ['crescent arrowhead', 'trunk bag']}",a)
+"('safety net', 'T-shirt', 'AA battery')",polyester,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a T-shirt?
+ a) AA battery b) safety net
+","{'label': ['a)', 'b)'], 'text': ['AA battery', 'safety net']}",a)
+"('clergy stole', 'cap sleeve leotard', 'bathtub')","cotton, polyester, velvet","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a cap sleeve leotard?
+ a) bathtub b) clergy stole
+","{'label': ['a)', 'b)'], 'text': ['bathtub', 'clergy stole']}",a)
+"('beret', 'soccer ball', 'cooking foil')","nylon, polyester, synthetic leather","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a soccer ball?
+ a) cooking foil b) beret
+","{'label': ['a)', 'b)'], 'text': ['cooking foil', 'beret']}",a)
+"('swing', 'lab workbench', 'organic cloth diaper')","metal, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a lab workbench?
+ a) organic cloth diaper b) swing
+","{'label': ['a)', 'b)'], 'text': ['organic cloth diaper', 'swing']}",a)
+"('playpen canopy', 'fixed-length shoulder strap', 'bowling pin')","nylon, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a fixed-length shoulder strap?
+ a) bowling pin b) playpen canopy
+","{'label': ['a)', 'b)'], 'text': ['bowling pin', 'playpen canopy']}",a)
+"('pillowcase', 'academic stole', 'writing desk')","cotton, polyester, satin, silk","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a academic stole?
+ a) writing desk b) pillowcase
+","{'label': ['a)', 'b)'], 'text': ['writing desk', 'pillowcase']}",a)
+"('clip-on tie', 'ski parka', 'prehistoric handaxe')","metal, nylon, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a ski parka?
+ a) prehistoric handaxe b) clip-on tie
+","{'label': ['a)', 'b)'], 'text': ['prehistoric handaxe', 'clip-on tie']}",a)
+"('camping tent', 'fishing lure', 'kraft envelope')","metal, nylon, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a fishing lure?
+ a) kraft envelope b) camping tent
+","{'label': ['a)', 'b)'], 'text': ['kraft envelope', 'camping tent']}",a)
+"('bench cushion', 'pajama slip dress', 'bottle opener')","cotton, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a pajama slip dress?
+ a) bottle opener b) bench cushion
+","{'label': ['a)', 'b)'], 'text': ['bottle opener', 'bench cushion']}",a)
+"('messenger bag', 'compression socks', 'horsehair shoe brush')","nylon, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a compression socks?
+ a) horsehair shoe brush b) messenger bag
+","{'label': ['a)', 'b)'], 'text': ['horsehair shoe brush', 'messenger bag']}",a)
+"('clothesline', 'pregnancy pillow', 'faceted bead')","cotton, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a pregnancy pillow?
+ a) faceted bead b) clothesline
+","{'label': ['a)', 'b)'], 'text': ['faceted bead', 'clothesline']}",a)
+"('opera gloves', 'sundress', 'donation box')","cotton, polyester, satin, silk","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a sundress?
+ a) donation box b) opera gloves
+","{'label': ['a)', 'b)'], 'text': ['donation box', 'opera gloves']}",a)
+"('bike helmet', 'laser projector', 'handmade cloak')","metal, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a laser projector?
+ a) handmade cloak b) bike helmet
+","{'label': ['a)', 'b)'], 'text': ['handmade cloak', 'bike helmet']}",a)
+"('soft tape measure', 'windbreaker jacket', 'tuning fork')","nylon, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a windbreaker jacket?
+ a) tuning fork b) soft tape measure
+","{'label': ['a)', 'b)'], 'text': ['tuning fork', 'soft tape measure']}",a)
+"('outdoor tiles', 'green chalkboard', 'fishing line')",plastic,"Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a green chalkboard?
+ a) fishing line b) outdoor tiles
+","{'label': ['a)', 'b)'], 'text': ['fishing line', 'outdoor tiles']}",a)
+"('throw pillow', 'bridal gown', 'hardware organizer')","cotton, satin, silk, velvet","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a bridal gown?
+ a) hardware organizer b) throw pillow
+","{'label': ['a)', 'b)'], 'text': ['hardware organizer', 'throw pillow']}",a)
+"('bicycle saddle', 'boat hull', 'headstone')","metal, plastic","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a boat hull?
+ a) headstone b) bicycle saddle
+","{'label': ['a)', 'b)'], 'text': ['headstone', 'bicycle saddle']}",a)
+"('adjustable strap', 'tank top', 'pyramid roof')","nylon, polyester","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a tank top?
+ a) pyramid roof b) adjustable strap
+","{'label': ['a)', 'b)'], 'text': ['pyramid roof', 'adjustable strap']}",a)
+"('scarf', 'beret', 'rail fence')","acrylic, cashmere, cotton, polyester, wool","Normally, which of the following is less likely to be at least partially made of a material that is a constituent of a beret?
+ a) rail fence b) scarf
+","{'label': ['a)', 'b)'], 'text': ['rail fence', 'scarf']}",a)
